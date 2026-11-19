@@ -1,3 +1,9 @@
+## Requisitos y distribución por responsables
+
+[Documento normativo](https://github.com/Matterssmith/Marketplace-Matter/blob/matter/docs/REQUISITOS_ECOSISTEMA_COMERCIO.md) · [Idea titulada para el equipo](docs/TEAM_MATTER_COMMERCE.md)
+
+El ZIP anexado incluye conceptos del marketplace de software y prototipos eléctricos y de seguridad. No confundirlos con módulos del comercio físico en producción.
+
 # Iniciativa estratégica — Marketplace-Matter
 
 **Fecha:** 19 de noviembre de 2026  

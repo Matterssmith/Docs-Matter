@@ -1,3 +1,10 @@
+## Requisitos comerciales del ecosistema (2026-11-19)
+
+- [Propuesta para el equipo](docs/TEAM_MATTER_COMMERCE.md)
+- [Matriz de 18 requisitos técnicos de Marketplace-Matter](https://github.com/Matterssmith/Marketplace-Matter/blob/matter/docs/REQUISITOS_ECOSISTEMA_COMERCIO.md)
+
+**Estado: planificación.** No confundir con funciones activas ni con el marketplace de módulos del OS.
+
 # ꧁✪⃢.✪ 𝐌𝖆𝖙𝖙𝖊𝖗𝖘𝖘𝖒𝖎𝖙𝖍۞₪»̶ ༄☾︎𝐌𝐒☽︎༄
 
 Documentación transversal del ecosistema Matterssmith.

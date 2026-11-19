@@ -1,3 +1,7 @@
+## Nueva iniciativa transversal
+
+Indexar `docs/TEAM_MATTER_COMMERCE.md` y los requisitos MAT-COM-001..018 en cada actualización del ecosistema. Diferenciar ideas, requerimientos aprobados, código implementado y pruebas verificadas. Respetar propiedad/cifrado en Vault, no publicar fuentes privadas y preservar bloqueo de Bot-Matter.
+
 # Docs-Matter — documentación e índice del ecosistema
 
 - Mantener `README.md` como índice actualizado.

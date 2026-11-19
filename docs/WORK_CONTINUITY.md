@@ -1,3 +1,12 @@
+## 2026-11-19 — Equipo informado mediante requisitos transversales
+
+- SHA base Docs-Matter: `3b488c2e7b85b18fcf4c022494a4b9426ff5e8bf`.
+- Documento de equipo añadido: `docs/TEAM_MATTER_COMMERCE.md`; fuente canónica: https://github.com/Matterssmith/Marketplace-Matter/blob/matter/docs/REQUISITOS_ECOSISTEMA_COMERCIO.md.
+- Convertidas ideas en necesidades de implementación con IDs, responsabilidades, fases, seguridad y aceptación. La aportación del ZIP se limitó a contenido relevante sin publicar mensajes o contactos de origen.
+- La plataforma de módulos de software del ZIP y la nueva tienda física se distinguen formalmente. Generador mecánico-magnético, relevadores y Tri-Red tienen clasificación experimental/separada.
+- README revisado: 1/1. Prueba: existencia y enlaces GitHub; sin funcionalidad comercial probada.
+- Pendiente: distribuir briefs a los repositorios responsables, estimaciones y aprobación de cada fase.
+
 # Continuidad Docs-Matter
 
 - Fecha: 2026-11-19.
