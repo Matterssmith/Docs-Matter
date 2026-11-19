@@ -1,3 +1,7 @@
+## Índice del archivo fuente Proyecto-Matter.zip
+
+[Inventario inicial de 21 familias de ideas](docs/ARCHIVE_IDEAS_SOURCE_INDEX.md). Incluye seguridad de redes, generación eléctrica, robótica, IA, plataforma de software y comercio físico, **sin afirmar implementación**.
+
 ## Requisitos comerciales del ecosistema (2026-11-19)
 
 - [Propuesta para el equipo](docs/TEAM_MATTER_COMMERCE.md)
