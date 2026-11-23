@@ -1,6 +1,6 @@
-## 2026-11-23 — ADR Engine-Matter / Extension-Matter
+## 2026-11-23 — ADR Engine-Matter / Engine-Extensions-Matter
 
-Nueva decisión del propietario: WhatsApp-Matter → **Engine-Matter** (núcleo exclusivo de los sistemas Matter, incluido Social-Matter); Telegram-Matter → **Extension-Matter** (adaptadores WhatsApp, Telegram, Discord y redes futuras); Discord-Matter → retiro con respaldo previo. La carpeta Matter-MSEL se alojará en Engine y consume el lenguaje MSEL independiente del repositorio privado. Extensions-Matter (plural) sigue siendo otro repositorio. Archivo de alcance, riesgos y fases: [docs/ENGINE_EXTENSION_ARCHITECTURE.md](docs/ENGINE_EXTENSION_ARCHITECTURE.md). Solo documentación en alpha; ninguna migración funcional o renombrado GitHub concluido.
+Nueva decisión del propietario: WhatsApp-Matter → **Engine-Matter** (núcleo exclusivo de los sistemas Matter, incluido Social-Matter); Telegram-Matter → **Engine-Extensions-Matter** (adaptadores WhatsApp, Telegram, Discord y redes futuras); Discord-Matter → retiro con respaldo previo. La carpeta Matter-MSEL se alojará en Engine y consume el lenguaje MSEL independiente del repositorio privado. Extensions-Matter (sin prefijo Engine) sigue siendo otro repositorio. Archivo de alcance, riesgos y fases: [docs/ENGINE_EXTENSION_ARCHITECTURE.md](docs/ENGINE_EXTENSION_ARCHITECTURE.md). Solo documentación en alpha; ninguna migración funcional o renombrado GitHub concluido.
 
 Créditos:
 Hecho por Lournyx Matterssmith [Lou-Nyx].
